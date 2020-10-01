@@ -1,0 +1,177 @@
+{
+
+	"tray_id1": {
+
+		"phase1":{
+
+			"dataset_config": {
+
+				"label_groups":{
+
+
+				},
+
+				"aug_config": {
+
+					"common":{
+
+
+					},
+
+					"group_1":{
+
+
+					}
+				}
+
+			},
+
+			"model_config": { 
+
+				"retinanet_flag": true,
+				"num_interpolated_convs_between_encoding_and_predictor": 1,
+				"unmatched_threshold_values": [0.5, 0.45, 0.4, 0.35, 0.3],
+
+				"faster_rcnn_flag": true,
+				"striped_faster_rcnn_flag": true,
+
+				"max_steps_per_attempt": 5000,
+
+				"blacklist": [],
+				"target": []
+
+			}
+		
+		},
+
+		"phase2":{
+
+			"dataset_config": {
+
+				"candidates": [],
+
+				"aug_config":{
+
+					"common":{
+
+
+					},
+
+					"candidate_1":{
+
+						
+					}
+				},
+
+				"square_images": false
+
+			},
+
+			"model_config": { 
+
+				"retinanet_flag": false,
+				"num_interpolated_convs_between_encoding_and_predictor": 1,
+				"unmatched_threshold_values": [0.5, 0.45, 0.4, 0.35, 0.3],
+
+				"faster_rcnn_flag": true,
+				"striped_faster_rcnn_flag": true,
+
+				"max_steps_per_attempt": 5000,
+
+				"blacklist": [],
+				"target": []
+
+			}
+		
+		},
+	
+	},
+
+	"tray_id2": {
+
+		"phase1":{
+
+			"dataset_config": {
+
+				"label_groups":{
+
+
+				},
+
+				"aug_config": {
+
+					"common":{
+
+
+					},
+
+					"group_1":{
+
+
+					}
+				}
+
+			},
+
+			"model_config": { 
+
+				"retinanet_flag": true,
+				"num_interpolated_convs_between_encoding_and_predictor": 1,
+				"unmatched_threshold_values": [0.5, 0.45, 0.4, 0.35, 0.3],
+
+				"faster_rcnn_flag": true,
+				"striped_faster_rcnn_flag": true,
+
+				"max_steps_per_attempt": 5000,
+
+				"blacklist": [],
+				"target": []
+
+			}
+		
+		},
+
+		"phase2":{
+
+			"dataset_config": {
+
+				"candidates": [],
+
+				"aug_config":{
+
+					"common":{
+
+
+					},
+
+					"candidate_1":{
+
+						
+					}
+				},
+
+				"square_images": false
+
+			},
+
+			"model_config": { 
+
+				"retinanet_flag": false,
+				"num_interpolated_convs_between_encoding_and_predictor": 1,
+				"unmatched_threshold_values": [0.5, 0.45, 0.4, 0.35, 0.3],
+
+				"faster_rcnn_flag": true,
+				"striped_faster_rcnn_flag": true,
+
+				"max_steps_per_attempt": 5000,
+
+				"blacklist": [],
+				"target": []
+
+			}
+		
+		},
+	
+	},
+	
+}

@@ -1,0 +1,14 @@
+{
+
+	"common": {
+
+		"rotate_up_to_360_by": 0,
+		"rotate_180": false,
+		"negative_filter": false,
+		"flip_up_down": true,
+		"flip_left_right": true,
+		"baseline_augs_per_image": 0
+
+	}
+
+}
