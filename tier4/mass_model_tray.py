@@ -52,48 +52,48 @@ def run(args):
 
 		"machine70":{
 
-			"password": "Templates12",
+			"password": "todopassword",
 			"ip": "192.168.31.70"
 
 		},
 
 		"machine71":{
 
-			"password": "Templates12",
+			"password": "todopassword",
 			"ip": "192.168.31.71"
 
 		},
 
 		"machine66":{
 
-			"password": "Templates12",
+			"password": "todopassword",
 			"ip": "192.168.31.66"
 
 		},
 
 		"machine67":{
 
-			"password": "Templates12",
+			"password": "todopassword",
 			"ip": "192.168.31.67"
 
 		},
 
 		"machine68":{
 
-			"password": "Templates12",
+			"password": "todopassword",
 			"ip": "192.168.31.68"
 
 		},
 
 		"catalinh":{
 
-			"password": "mirana11",
+			"password": "todopassword",
 			"ip": "192.168.31.84"
 		},
 
 		"machine232":{
 
-			"password": "Templates12",
+			"password": "todopassword",
 			"ip": "192.168.31.232"
 		}
 
